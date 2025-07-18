@@ -3,7 +3,7 @@
 A simple embedded system using STM32F4 and DHT11 to display and monitor temperature/humidity with warning LED and configuration mode via buttons and LCD1602A display.
 
 ## 📸 Demo
-![Demo GIF/IMAGE](./assets/demo.gif)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
@@ -26,10 +26,10 @@ A simple embedded system using STM32F4 and DHT11 to display and monitor temperat
 |----------------|-----------------------|
 | MCU            | STM32F407VG           |
 | Temp/Humi Sensor | DHT11                |
-| LCD Display    | LCD1602A (I2C or parallel) |
-| Buttons        | 3x tactile switches   |
-| Warning        | LED (with resistor)   |
-
+| LCD Display    | LCD1602A (GPIO 4-Bits) |
+| Buttons        | 3x tactile switches    |
+| Warning        | LED                    |
+|  LCD Contrast  | Register 10k           |
 ---
 
 ## 🗂️ Folder Structure
