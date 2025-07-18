@@ -33,3 +33,4 @@ A simple embedded system using STM32F4 and DHT11 to display and monitor temperat
 ---
 
 ## 🗂️ Folder Structure
+<pre lang="no-highlight"><code>. ├── Core │ ├── Inc │ │ ├── dht11.h │ │ ├── gpio.h │ │ ├── lcd.h │ │ ├── main.h │ │ ├── stm32f4xx_hal_conf.h │ │ └── stm32f4xx_it.h │ └── Src │ ├── dht11.c │ ├── gpio.c │ ├── lcd.c │ ├── main.c │ ├── stm32f4xx_hal_msp.c │ ├── stm32f4xx_it.c │ ├── syscalls.c │ └── system_stm32f4xx.c ├── Drivers │ └── CMSIS └── Startup </code></pre>
