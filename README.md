@@ -3,7 +3,7 @@
 A simple embedded system using STM32F4 and DHT11 to display and monitor temperature/humidity with warning LED and configuration mode via buttons and LCD1602A display.
 
 ## 📸 Demo
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/YxfCUHxHrRw))
 
 ---
 
