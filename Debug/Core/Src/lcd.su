@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:22:6:LCD_Clear	8	static
+../Core/Src/lcd.c:26:6:LCD_Init	8	static
+../Core/Src/lcd.c:66:6:GPIO_LCD_Init	48	static
+../Core/Src/lcd.c:79:6:LCD_Send_Nibble	16	static
+../Core/Src/lcd.c:87:6:LCD_Send_CMD	16	static
+../Core/Src/lcd.c:96:6:LCD_Send_Data	16	static
+../Core/Src/lcd.c:104:6:LCD_Send_String	16	static
+../Core/Src/lcd.c:111:6:LCD_Enable	8	static

@@ -1,0 +1,11 @@
+../Core/Src/main.c:42:6:GPIO_BTN_IT	1
+../Core/Src/main.c:60:6:GPIO_Alert	4
+../Core/Src/main.c:72:6:LCD_Display_Config	3
+../Core/Src/main.c:88:6:LCD_Display_Data	1
+../Core/Src/main.c:101:5:main	9
+../Core/Src/main.c:162:6:EXTI3_IRQHandler	1
+../Core/Src/main.c:166:6:EXTI4_IRQHandler	1
+../Core/Src/main.c:170:6:EXTI9_5_IRQHandler	1
+../Core/Src/main.c:174:6:HAL_GPIO_EXTI_Callback	16
+../Core/Src/main.c:218:6:SystemClock_Config	3
+../Core/Src/main.c:264:6:Error_Handler	1
